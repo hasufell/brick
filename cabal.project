@@ -1,0 +1,16 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/jtdaugherty/vty.git
+  tag: 40b2a01d431afdef62a84b8f731cb5846583a088
+
+source-repository-package
+  type: git
+  location: https://github.com/jtdaugherty/vty-crossplatform.git
+  tag: 7beefd86af3386dfbf352563f2211fee94549752
+
+source-repository-package
+  type: git
+  location: https://github.com/jtdaugherty/vty-unix.git
+  tag: ad31125fe40eb9212fdea8011f34728429d4d213
